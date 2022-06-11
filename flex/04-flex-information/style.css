@@ -34,7 +34,7 @@ img {
 #plants {
   display: flex;
   flex-direction: row;
-
+  justify-content: center;
 }
 
 /* do not edit this footer */
